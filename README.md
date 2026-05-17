@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Banner Header -->
-![Mazharul Islam Rafi](https://i.ibb.co.com/FkLVTmdq/Github-banner.jpg)
+<p align="center">
+  <img src="https://i.ibb.co.com/FkLVTmdq/Github-banner.jpg" alt="Mazharul Islam Rafi" />
+</p>
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Frontend-Focused+MERN+Developer;Building+Scalable+%26+Clean+UIs;React+%7C+Next.js+%7C+TypeScript;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
