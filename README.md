@@ -1,7 +1,8 @@
-<div align="center">
 
 <!-- Banner Header -->
 ![Mazharul Islam Rafi](https://i.ibb.co.com/FkLVTmdq/Github-banner.jpg)
+
+<div align="center">
 
 
 <!-- Typing SVG -->
