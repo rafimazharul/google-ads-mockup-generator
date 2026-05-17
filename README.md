@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Header -->
-![Mazharul Islam Rafi](https://drive.google.com/uc?export=view&id=1g9AotPIvfLDam5ECGjCxHrV6yn50DSIf)
+![Mazharul Islam Rafi | React.js Enthusiast](https://i.ibb.co.com/FkLVTmdq/Github-banner.jpg)
 <p align="center">
   <img src="https://i.ibb.co.com/FkLVTmdq/Github-banner.jpg" alt="Mazharul Islam Rafi" />
 </p>
