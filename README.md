@@ -1,6 +1,7 @@
 <div align="center">
 
 <!-- Banner Header -->
+![Mazharul Islam Rafi](https://drive.google.com/uc?export=view&id=1g9AotPIvfLDam5ECGjCxHrV6yn50DSIf)
 <p align="center">
   <img src="https://i.ibb.co.com/FkLVTmdq/Github-banner.jpg" alt="Mazharul Islam Rafi" />
 </p>
@@ -22,13 +23,13 @@
 ## 👨‍💻 About Me
 
 ```ts
-const nurulla = {
+const rafi = {
   name:       "Mazharul Islam Rafi",
   role:       "Business Development Executive",
   company:    "Softvence Agency",
   location:   "Dhaka, Bangladesh 📍",
   experience: "1+ Year",
-  focus:      ["Scalable UI", "Clean Architecture", "API-Driven Apps", "Business Analysis"],
+  focus:      ["Scalable UI", "Clean Architecture", "Business Analysis"],
   contact:    "mazharulrafi@gmail.com",
 };
 ```
@@ -77,16 +78,16 @@ const nurulla = {
 ---
 
 
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rafimazharul/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rafi_lostinthoughts/?hl=en) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafimazharul/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafimazharul)
 [![Portfolio](https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=black)](https://mazharul.bro.bd/)
 [![Email](https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazharulrafi@gmail.com)
-
 </div>
 
 ---
