@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Header -->
-<img src="cartoonBanner.png" width="100%" alt="Mazharul Islam Rafi" />
+<img src="[cartoonBanner.png](https://ibb.co.com/nqNCJ6K8)" width="100%" alt="Mazharul Islam Rafi" />
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Frontend-Focused+MERN+Developer;Building+Scalable+%26+Clean+UIs;React+%7C+Next.js+%7C+TypeScript;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
@@ -84,7 +84,16 @@ const nurulla = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafimazharul&theme=tokyonight" height="150px" />
 </div>
 
+## GitHub Stats
+
+
+
+<p align="center">
+  <img width="48%" src="https://streak-stats.demolab.com/?user=rafimazharul&theme=tokyonight"/>
+</p>
 ---
+
+
 
 ## 🌐 Connect With Me
 
