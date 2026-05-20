@@ -477,7 +477,7 @@ function App() {
       {/* Footer */}
       <footer className="app-footer">
         Copyright &copy; {new Date().getFullYear()} by{' '}
-        <a href="#" target="_blank" rel="noopener noreferrer">Rafi</a>
+        <a href="https://www.mazharul.bro.bd" target="_blank" rel="noopener noreferrer">Rafi</a>
         {' '}| All Rights Reserved.
       </footer>
 

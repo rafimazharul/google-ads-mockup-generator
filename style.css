@@ -892,5 +892,9 @@ textarea.field-input { min-height: 64px; }
   color: var(--accent);
   text-decoration: none;
   font-weight: 500;
+  transition: text-shadow 0.3s ease;
 }
-.app-footer a:hover { text-decoration: underline; }
+.app-footer a:hover { 
+  text-decoration: none;
+  text-shadow: 0 0 10px var(--accent), 0 0 20px var(--accent);
+}
